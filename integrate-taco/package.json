@@ -1,0 +1,25 @@
+{
+  "name": "integrate-taco",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@irys/upload": "^0.0.14",
+    "@irys/upload-ethereum": "^0.0.14",
+    "@nucypher/taco": "^0.5.0",
+    "@nucypher/taco-auth": "^0.2.0",
+    "dotenv": "^16.4.7",
+    "ethers": "^5.7.2",
+    "typescript": "^5.7.3"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.1"
+  }
+}
